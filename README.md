@@ -1,4 +1,4 @@
-# TL-PINNs: Boosting the training of physics informed neural networks with transfer learning
+# Boosting the training of physics informed neural networks with transfer learning
 
 
 Differential equations are ubiquitous in science and engineering and their solutions are crucial for many applications as they can help us to understand various scientific disciplines described by applied mathematics. Unfortunately, differential equations are notoriously hard to solve. For almost all practically relevant differen- tial equations, exact analytical solutions are unknown. Therefore, numerical solvers that yield solutions with accuracy up to a certain degree have been developed for several decades. Despite these tremendous efforts, high-performance computing clusters may still need prohibitively long (weeks to months) to carry out sophisticated numerical simulations. Therefore, the design of new efficient algorithms for differential equations is of primary importance and could have revolutionary effects in both academia and industry.
