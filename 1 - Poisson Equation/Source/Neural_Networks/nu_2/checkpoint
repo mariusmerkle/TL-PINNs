@@ -1,0 +1,2 @@
+model_checkpoint_path: "Poisson_Equation_Source_Model_nu_2-10000"
+all_model_checkpoint_paths: "Poisson_Equation_Source_Model_nu_2-10000"
